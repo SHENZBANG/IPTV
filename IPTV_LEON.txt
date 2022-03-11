@@ -1494,8 +1494,8 @@ HUSTLER-HD,http://212.102.48.142:8085/udp/236.3.1.14:1234
 
 
 
-点播频道(3.11测试中szb),#genre#
+点b测试中szb,#genre#
 
-天天七点综2022,https://dy2.yle888.vip/share/oZXOWPeEdCUkg1Hp
+秘鲁大冒险2,https://dy2.yle888.vip/20220310/keVvMLSO/index.m3u8
 
 史泰登岛国王,https://dy2.yle888.vip/20220310/3Y8AyZvO/index.m3u8
