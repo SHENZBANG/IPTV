@@ -1494,8 +1494,25 @@ HUSTLER-HD,http://212.102.48.142:8085/udp/236.3.1.14:1234
 
 
 
-点b测试中szb,#genre#
+点播测试3.11,#genre#
 
 秘鲁大冒险2,https://dy2.yle888.vip/20220310/keVvMLSO/index.m3u8
 
 史泰登岛国王,https://dy2.yle888.vip/20220310/3Y8AyZvO/index.m3u8
+
+
+电视剧测试3.11,#genre#
+
+我们的婚姻1,https://dy2.yle888.vip/20220223/sJA2j8gn/index.m3u8
+
+2,https://dy2.yle888.vip/20220223/TZi5yMPH/index.m3u8
+
+3,https://dy2.yle888.vip/20220223/BVnJ0Tnr/index.m3u8
+
+4,https://dy2.yle888.vip/20220223/c9lyym39/index.m3u8
+
+5,https://dy2.yle888.vip/20220223/mKMmtEgV/index.m3u8
+
+6,https://dy2.yle888.vip/20220223/PpFGmpcc/index.m3u8
+
+...,https://636c-cloud1-0gk3486hc4fffd4b-1307030211.tcb.qcloud.la/ScreenRecorderProject1.mp4
